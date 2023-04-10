@@ -5,3 +5,4 @@
 { "name": "lzop",  "type": "archiver" }
 { "name": "xz",    "type": "archiver" }
 { "name": "zstd",  "type": "archiver" }
+{ "name": "tar",   "type": "archiver" }
